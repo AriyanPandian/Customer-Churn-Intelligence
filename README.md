@@ -1,6 +1,6 @@
 # Telecom Customer Churn Prediction
 
-**Live demo:** [Open the Streamlit app](https://your-streamlit-community-cloud-url)
+**Live demo:** [Open the Streamlit app]([https://your-streamlit-community-cloud-url](https://customer-churn-intelligence-mvv4sfiqnebtusjk5dpcrg.streamlit.app/))
 
 ## Overview
 
